@@ -16,11 +16,8 @@ cdk --version
 
 eks/cluster/requirements.txt
 ```
-aws_cdk.core==<cdk_version>
-aws_cdk.aws-iam==<cdk_version>
-aws_cdk.aws-eks==<cdk_version>
-aws_cdk.aws_ec2==<cdk_version>
-pyyaml
+aws-cdk-lib==<cdk_version>
+constructs>=10.0.0,<11.0.0
 ```
 
 ```
