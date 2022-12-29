@@ -1,5 +1,6 @@
 ## Install AWS CDK
 `Amazon Linux 2`
+[HOL Install-cdk](https://aws.amazon.com/ko/getting-started/guides/setup-cdk/)
 
 
 ```
